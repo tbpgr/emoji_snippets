@@ -2,8 +2,6 @@
 ## Snippets
 * [Snippets](./snippets)
 
-:smile:
-
 ## Generator
 Generate snippets from Emoji Website.
 
