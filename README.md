@@ -19,7 +19,7 @@ $ ruby emoji_snippet_generator.rb
 ## Snippets
 |name|tab trigger|image|filename|
 |:--|:--|:--|:--|
-|bowtie|em_bowtie|:bowtie: |bowtie.sublime-snippet|
+|bowtie|em_bowtie| :bowtie: |bowtie.sublime-snippet|
 |smile|em_smile|:smile: |smile.sublime-snippet|
 |laughing|em_laughing|:laughing: |laughing.sublime-snippet|
 |blush|em_blush|:blush: |blush.sublime-snippet|
