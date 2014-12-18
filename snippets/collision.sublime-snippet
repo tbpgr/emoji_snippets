@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:collision:
+]]></content>
+  <tabTrigger>em_collision</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji collision</description>
+</snippet>

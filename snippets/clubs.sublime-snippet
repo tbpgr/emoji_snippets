@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:clubs:
+]]></content>
+  <tabTrigger>em_clubs</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji clubs</description>
+</snippet>

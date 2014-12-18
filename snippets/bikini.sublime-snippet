@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bikini:
+]]></content>
+  <tabTrigger>em_bikini</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bikini</description>
+</snippet>

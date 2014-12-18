@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bust_in_silhouette:
+]]></content>
+  <tabTrigger>em_bust_in_silhouette</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bust_in_silhouette</description>
+</snippet>

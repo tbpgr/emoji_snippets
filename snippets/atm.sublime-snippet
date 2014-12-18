@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:atm:
+]]></content>
+  <tabTrigger>em_atm</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji atm</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:love_hotel:
+]]></content>
+  <tabTrigger>em_love_hotel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji love_hotel</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heavy_exclamation_mark:
+]]></content>
+  <tabTrigger>em_heavy_exclamation_mark</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heavy_exclamation_mark</description>
+</snippet>

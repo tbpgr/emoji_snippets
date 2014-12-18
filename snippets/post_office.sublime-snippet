@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:post_office:
+]]></content>
+  <tabTrigger>em_post_office</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji post_office</description>
+</snippet>

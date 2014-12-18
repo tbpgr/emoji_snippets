@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:six_pointed_star:
+]]></content>
+  <tabTrigger>em_six_pointed_star</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji six_pointed_star</description>
+</snippet>

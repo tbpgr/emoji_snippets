@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ribbon:
+]]></content>
+  <tabTrigger>em_ribbon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ribbon</description>
+</snippet>

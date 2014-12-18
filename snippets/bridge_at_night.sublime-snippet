@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bridge_at_night:
+]]></content>
+  <tabTrigger>em_bridge_at_night</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bridge_at_night</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:soon:
+]]></content>
+  <tabTrigger>em_soon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji soon</description>
+</snippet>

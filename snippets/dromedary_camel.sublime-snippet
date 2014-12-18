@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dromedary_camel:
+]]></content>
+  <tabTrigger>em_dromedary_camel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dromedary_camel</description>
+</snippet>

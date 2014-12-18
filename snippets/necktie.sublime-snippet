@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:necktie:
+]]></content>
+  <tabTrigger>em_necktie</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji necktie</description>
+</snippet>

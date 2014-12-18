@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:clap:
+]]></content>
+  <tabTrigger>em_clap</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji clap</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:closed_lock_with_key:
+]]></content>
+  <tabTrigger>em_closed_lock_with_key</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji closed_lock_with_key</description>
+</snippet>

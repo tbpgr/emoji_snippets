@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:moyai:
+]]></content>
+  <tabTrigger>em_moyai</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji moyai</description>
+</snippet>

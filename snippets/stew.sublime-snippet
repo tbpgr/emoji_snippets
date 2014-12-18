@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:stew:
+]]></content>
+  <tabTrigger>em_stew</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji stew</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:anger:
+]]></content>
+  <tabTrigger>em_anger</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji anger</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:flashlight:
+]]></content>
+  <tabTrigger>em_flashlight</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji flashlight</description>
+</snippet>

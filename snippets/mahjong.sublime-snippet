@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mahjong:
+]]></content>
+  <tabTrigger>em_mahjong</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mahjong</description>
+</snippet>

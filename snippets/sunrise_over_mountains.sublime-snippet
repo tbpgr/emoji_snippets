@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sunrise_over_mountains:
+]]></content>
+  <tabTrigger>em_sunrise_over_mountains</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sunrise_over_mountains</description>
+</snippet>

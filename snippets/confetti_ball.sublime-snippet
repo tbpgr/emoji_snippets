@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:confetti_ball:
+]]></content>
+  <tabTrigger>em_confetti_ball</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji confetti_ball</description>
+</snippet>

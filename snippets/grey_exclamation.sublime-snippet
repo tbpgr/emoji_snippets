@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:grey_exclamation:
+]]></content>
+  <tabTrigger>em_grey_exclamation</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji grey_exclamation</description>
+</snippet>

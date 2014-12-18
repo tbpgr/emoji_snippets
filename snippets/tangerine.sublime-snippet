@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tangerine:
+]]></content>
+  <tabTrigger>em_tangerine</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tangerine</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:musical_score:
+]]></content>
+  <tabTrigger>em_musical_score</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji musical_score</description>
+</snippet>

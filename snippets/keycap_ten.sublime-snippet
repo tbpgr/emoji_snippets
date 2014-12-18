@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:keycap_ten:
+]]></content>
+  <tabTrigger>em_keycap_ten</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji keycap_ten</description>
+</snippet>

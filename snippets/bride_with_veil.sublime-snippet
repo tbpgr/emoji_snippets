@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bride_with_veil:
+]]></content>
+  <tabTrigger>em_bride_with_veil</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bride_with_veil</description>
+</snippet>

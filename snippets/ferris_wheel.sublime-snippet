@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ferris_wheel:
+]]></content>
+  <tabTrigger>em_ferris_wheel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ferris_wheel</description>
+</snippet>

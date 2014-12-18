@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ideograph_advantage:
+]]></content>
+  <tabTrigger>em_ideograph_advantage</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ideograph_advantage</description>
+</snippet>

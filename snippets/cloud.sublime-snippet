@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cloud:
+]]></content>
+  <tabTrigger>em_cloud</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cloud</description>
+</snippet>

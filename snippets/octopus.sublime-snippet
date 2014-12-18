@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:octopus:
+]]></content>
+  <tabTrigger>em_octopus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji octopus</description>
+</snippet>

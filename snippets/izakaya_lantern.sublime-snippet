@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:izakaya_lantern:
+]]></content>
+  <tabTrigger>em_izakaya_lantern</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji izakaya_lantern</description>
+</snippet>

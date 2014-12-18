@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sos:
+]]></content>
+  <tabTrigger>em_sos</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sos</description>
+</snippet>

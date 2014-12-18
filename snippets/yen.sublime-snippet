@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:yen:
+]]></content>
+  <tabTrigger>em_yen</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji yen</description>
+</snippet>

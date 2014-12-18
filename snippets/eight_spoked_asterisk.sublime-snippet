@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:eight_spoked_asterisk:
+]]></content>
+  <tabTrigger>em_eight_spoked_asterisk</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji eight_spoked_asterisk</description>
+</snippet>

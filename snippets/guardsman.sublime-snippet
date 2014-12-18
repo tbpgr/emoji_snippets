@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:guardsman:
+]]></content>
+  <tabTrigger>em_guardsman</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji guardsman</description>
+</snippet>

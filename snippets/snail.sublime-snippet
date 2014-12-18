@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:snail:
+]]></content>
+  <tabTrigger>em_snail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji snail</description>
+</snippet>

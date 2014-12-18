@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fast_forward:
+]]></content>
+  <tabTrigger>em_fast_forward</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fast_forward</description>
+</snippet>

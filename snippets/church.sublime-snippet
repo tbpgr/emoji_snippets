@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:church:
+]]></content>
+  <tabTrigger>em_church</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji church</description>
+</snippet>

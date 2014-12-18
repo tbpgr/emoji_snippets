@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:whale:
+]]></content>
+  <tabTrigger>em_whale</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji whale</description>
+</snippet>

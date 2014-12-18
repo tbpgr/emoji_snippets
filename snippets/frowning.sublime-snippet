@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:frowning:
+]]></content>
+  <tabTrigger>em_frowning</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji frowning</description>
+</snippet>

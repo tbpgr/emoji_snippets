@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:saxophone:
+]]></content>
+  <tabTrigger>em_saxophone</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji saxophone</description>
+</snippet>

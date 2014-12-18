@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:shell:
+]]></content>
+  <tabTrigger>em_shell</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji shell</description>
+</snippet>

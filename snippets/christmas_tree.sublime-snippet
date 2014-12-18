@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:christmas_tree:
+]]></content>
+  <tabTrigger>em_christmas_tree</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji christmas_tree</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heavy_division_sign:
+]]></content>
+  <tabTrigger>em_heavy_division_sign</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heavy_division_sign</description>
+</snippet>

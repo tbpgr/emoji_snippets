@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:trophy:
+]]></content>
+  <tabTrigger>em_trophy</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji trophy</description>
+</snippet>

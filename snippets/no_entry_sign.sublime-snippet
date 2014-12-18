@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:no_entry_sign:
+]]></content>
+  <tabTrigger>em_no_entry_sign</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji no_entry_sign</description>
+</snippet>

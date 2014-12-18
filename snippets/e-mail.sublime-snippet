@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:e-mail:
+]]></content>
+  <tabTrigger>em_e-mail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji e-mail</description>
+</snippet>

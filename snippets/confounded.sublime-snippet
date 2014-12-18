@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:confounded:
+]]></content>
+  <tabTrigger>em_confounded</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji confounded</description>
+</snippet>

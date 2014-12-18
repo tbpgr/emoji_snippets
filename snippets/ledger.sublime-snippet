@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ledger:
+]]></content>
+  <tabTrigger>em_ledger</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ledger</description>
+</snippet>

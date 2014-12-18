@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:wave:
+]]></content>
+  <tabTrigger>em_wave</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji wave</description>
+</snippet>

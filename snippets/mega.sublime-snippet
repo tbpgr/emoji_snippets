@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mega:
+]]></content>
+  <tabTrigger>em_mega</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mega</description>
+</snippet>

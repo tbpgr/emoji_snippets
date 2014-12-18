@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sun_with_face:
+]]></content>
+  <tabTrigger>em_sun_with_face</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sun_with_face</description>
+</snippet>

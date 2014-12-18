@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:nose:
+]]></content>
+  <tabTrigger>em_nose</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji nose</description>
+</snippet>

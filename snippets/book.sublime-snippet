@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:book:
+]]></content>
+  <tabTrigger>em_book</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji book</description>
+</snippet>

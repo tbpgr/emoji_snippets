@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:punch:
+]]></content>
+  <tabTrigger>em_punch</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji punch</description>
+</snippet>

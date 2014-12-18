@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:poop:
+]]></content>
+  <tabTrigger>em_poop</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji poop</description>
+</snippet>

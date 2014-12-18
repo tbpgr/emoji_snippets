@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:frog:
+]]></content>
+  <tabTrigger>em_frog</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji frog</description>
+</snippet>

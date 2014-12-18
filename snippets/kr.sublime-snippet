@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:kr:
+]]></content>
+  <tabTrigger>em_kr</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji kr</description>
+</snippet>

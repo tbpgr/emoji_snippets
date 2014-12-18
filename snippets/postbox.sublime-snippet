@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:postbox:
+]]></content>
+  <tabTrigger>em_postbox</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji postbox</description>
+</snippet>

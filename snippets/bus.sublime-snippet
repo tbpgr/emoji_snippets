@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bus:
+]]></content>
+  <tabTrigger>em_bus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bus</description>
+</snippet>

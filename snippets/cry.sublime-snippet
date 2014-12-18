@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cry:
+]]></content>
+  <tabTrigger>em_cry</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cry</description>
+</snippet>

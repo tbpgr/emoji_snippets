@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:school_satchel:
+]]></content>
+  <tabTrigger>em_school_satchel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji school_satchel</description>
+</snippet>

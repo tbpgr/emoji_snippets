@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:octocat:
+]]></content>
+  <tabTrigger>em_octocat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji octocat</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:walking:
+]]></content>
+  <tabTrigger>em_walking</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji walking</description>
+</snippet>

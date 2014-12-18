@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dizzy:
+]]></content>
+  <tabTrigger>em_dizzy</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dizzy</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:gem:
+]]></content>
+  <tabTrigger>em_gem</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji gem</description>
+</snippet>

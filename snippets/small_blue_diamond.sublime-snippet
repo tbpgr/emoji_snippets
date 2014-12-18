@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:small_blue_diamond:
+]]></content>
+  <tabTrigger>em_small_blue_diamond</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji small_blue_diamond</description>
+</snippet>

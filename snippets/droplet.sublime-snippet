@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:droplet:
+]]></content>
+  <tabTrigger>em_droplet</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji droplet</description>
+</snippet>

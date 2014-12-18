@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:id:
+]]></content>
+  <tabTrigger>em_id</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji id</description>
+</snippet>

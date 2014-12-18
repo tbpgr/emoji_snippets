@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:raising_hand:
+]]></content>
+  <tabTrigger>em_raising_hand</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji raising_hand</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tulip:
+]]></content>
+  <tabTrigger>em_tulip</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tulip</description>
+</snippet>

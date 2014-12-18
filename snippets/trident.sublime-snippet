@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:trident:
+]]></content>
+  <tabTrigger>em_trident</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji trident</description>
+</snippet>

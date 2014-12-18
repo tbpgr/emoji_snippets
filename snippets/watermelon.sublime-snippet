@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:watermelon:
+]]></content>
+  <tabTrigger>em_watermelon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji watermelon</description>
+</snippet>

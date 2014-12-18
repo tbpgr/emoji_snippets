@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dash:
+]]></content>
+  <tabTrigger>em_dash</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dash</description>
+</snippet>

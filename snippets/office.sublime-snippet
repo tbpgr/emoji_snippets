@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:office:
+]]></content>
+  <tabTrigger>em_office</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji office</description>
+</snippet>

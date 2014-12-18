@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:spaghetti:
+]]></content>
+  <tabTrigger>em_spaghetti</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji spaghetti</description>
+</snippet>

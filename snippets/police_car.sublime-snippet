@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:police_car:
+]]></content>
+  <tabTrigger>em_police_car</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji police_car</description>
+</snippet>

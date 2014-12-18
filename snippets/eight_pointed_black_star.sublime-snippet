@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:eight_pointed_black_star:
+]]></content>
+  <tabTrigger>em_eight_pointed_black_star</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji eight_pointed_black_star</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bamboo:
+]]></content>
+  <tabTrigger>em_bamboo</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bamboo</description>
+</snippet>

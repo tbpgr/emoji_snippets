@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pray:
+]]></content>
+  <tabTrigger>em_pray</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pray</description>
+</snippet>

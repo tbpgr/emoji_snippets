@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mag_right:
+]]></content>
+  <tabTrigger>em_mag_right</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mag_right</description>
+</snippet>

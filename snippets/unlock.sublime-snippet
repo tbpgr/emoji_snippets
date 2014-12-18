@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:unlock:
+]]></content>
+  <tabTrigger>em_unlock</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji unlock</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:wrench:
+]]></content>
+  <tabTrigger>em_wrench</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji wrench</description>
+</snippet>

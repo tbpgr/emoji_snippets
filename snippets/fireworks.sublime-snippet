@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fireworks:
+]]></content>
+  <tabTrigger>em_fireworks</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fireworks</description>
+</snippet>

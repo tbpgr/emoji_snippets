@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:grey_question:
+]]></content>
+  <tabTrigger>em_grey_question</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji grey_question</description>
+</snippet>

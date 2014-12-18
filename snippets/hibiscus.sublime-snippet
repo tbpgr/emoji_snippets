@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hibiscus:
+]]></content>
+  <tabTrigger>em_hibiscus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hibiscus</description>
+</snippet>

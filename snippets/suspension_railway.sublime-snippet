@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:suspension_railway:
+]]></content>
+  <tabTrigger>em_suspension_railway</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji suspension_railway</description>
+</snippet>

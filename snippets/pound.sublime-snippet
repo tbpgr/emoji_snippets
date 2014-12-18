@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pound:
+]]></content>
+  <tabTrigger>em_pound</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pound</description>
+</snippet>

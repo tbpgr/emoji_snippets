@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:honeybee:
+]]></content>
+  <tabTrigger>em_honeybee</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji honeybee</description>
+</snippet>

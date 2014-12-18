@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:flushed:
+]]></content>
+  <tabTrigger>em_flushed</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji flushed</description>
+</snippet>

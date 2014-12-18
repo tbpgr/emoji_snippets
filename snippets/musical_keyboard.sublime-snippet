@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:musical_keyboard:
+]]></content>
+  <tabTrigger>em_musical_keyboard</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji musical_keyboard</description>
+</snippet>

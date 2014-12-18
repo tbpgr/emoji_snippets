@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:runner:
+]]></content>
+  <tabTrigger>em_runner</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji runner</description>
+</snippet>

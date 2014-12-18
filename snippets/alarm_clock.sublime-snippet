@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:alarm_clock:
+]]></content>
+  <tabTrigger>em_alarm_clock</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji alarm_clock</description>
+</snippet>

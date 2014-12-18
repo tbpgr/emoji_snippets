@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:globe_with_meridians:
+]]></content>
+  <tabTrigger>em_globe_with_meridians</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji globe_with_meridians</description>
+</snippet>

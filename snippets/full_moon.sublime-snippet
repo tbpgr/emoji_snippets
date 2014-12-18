@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:full_moon:
+]]></content>
+  <tabTrigger>em_full_moon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji full_moon</description>
+</snippet>

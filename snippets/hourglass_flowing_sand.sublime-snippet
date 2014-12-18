@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hourglass_flowing_sand:
+]]></content>
+  <tabTrigger>em_hourglass_flowing_sand</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hourglass_flowing_sand</description>
+</snippet>

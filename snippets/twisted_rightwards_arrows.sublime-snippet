@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:twisted_rightwards_arrows:
+]]></content>
+  <tabTrigger>em_twisted_rightwards_arrows</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji twisted_rightwards_arrows</description>
+</snippet>

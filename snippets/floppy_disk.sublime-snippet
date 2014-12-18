@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:floppy_disk:
+]]></content>
+  <tabTrigger>em_floppy_disk</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji floppy_disk</description>
+</snippet>

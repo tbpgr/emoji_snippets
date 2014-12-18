@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:electric_plug:
+]]></content>
+  <tabTrigger>em_electric_plug</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji electric_plug</description>
+</snippet>

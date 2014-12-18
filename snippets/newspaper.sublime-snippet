@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:newspaper:
+]]></content>
+  <tabTrigger>em_newspaper</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji newspaper</description>
+</snippet>

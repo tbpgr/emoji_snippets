@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:zero:
+]]></content>
+  <tabTrigger>em_zero</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji zero</description>
+</snippet>

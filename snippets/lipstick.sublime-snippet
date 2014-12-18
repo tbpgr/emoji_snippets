@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:lipstick:
+]]></content>
+  <tabTrigger>em_lipstick</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji lipstick</description>
+</snippet>

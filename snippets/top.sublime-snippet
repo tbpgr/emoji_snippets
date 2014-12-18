@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:top:
+]]></content>
+  <tabTrigger>em_top</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji top</description>
+</snippet>

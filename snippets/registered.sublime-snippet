@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:registered:
+]]></content>
+  <tabTrigger>em_registered</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji registered</description>
+</snippet>

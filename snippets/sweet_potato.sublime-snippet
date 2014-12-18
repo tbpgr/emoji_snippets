@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sweet_potato:
+]]></content>
+  <tabTrigger>em_sweet_potato</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sweet_potato</description>
+</snippet>

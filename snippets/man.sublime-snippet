@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:man:
+]]></content>
+  <tabTrigger>em_man</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji man</description>
+</snippet>

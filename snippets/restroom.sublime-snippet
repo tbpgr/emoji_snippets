@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:restroom:
+]]></content>
+  <tabTrigger>em_restroom</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji restroom</description>
+</snippet>

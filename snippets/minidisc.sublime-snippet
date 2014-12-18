@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:minidisc:
+]]></content>
+  <tabTrigger>em_minidisc</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji minidisc</description>
+</snippet>

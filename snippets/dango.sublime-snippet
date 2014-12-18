@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dango:
+]]></content>
+  <tabTrigger>em_dango</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dango</description>
+</snippet>

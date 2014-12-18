@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:monorail:
+]]></content>
+  <tabTrigger>em_monorail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji monorail</description>
+</snippet>

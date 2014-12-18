@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cocktail:
+]]></content>
+  <tabTrigger>em_cocktail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cocktail</description>
+</snippet>

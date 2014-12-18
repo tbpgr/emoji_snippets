@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:panda_face:
+]]></content>
+  <tabTrigger>em_panda_face</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji panda_face</description>
+</snippet>

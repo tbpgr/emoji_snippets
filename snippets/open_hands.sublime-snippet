@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:open_hands:
+]]></content>
+  <tabTrigger>em_open_hands</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji open_hands</description>
+</snippet>

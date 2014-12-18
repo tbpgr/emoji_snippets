@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dart:
+]]></content>
+  <tabTrigger>em_dart</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dart</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mountain_cableway:
+]]></content>
+  <tabTrigger>em_mountain_cableway</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mountain_cableway</description>
+</snippet>

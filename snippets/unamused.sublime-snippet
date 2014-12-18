@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:unamused:
+]]></content>
+  <tabTrigger>em_unamused</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji unamused</description>
+</snippet>

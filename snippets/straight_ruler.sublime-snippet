@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:straight_ruler:
+]]></content>
+  <tabTrigger>em_straight_ruler</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji straight_ruler</description>
+</snippet>

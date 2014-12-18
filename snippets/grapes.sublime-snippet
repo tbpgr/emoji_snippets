@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:grapes:
+]]></content>
+  <tabTrigger>em_grapes</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji grapes</description>
+</snippet>

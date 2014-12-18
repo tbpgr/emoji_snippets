@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:left_luggage:
+]]></content>
+  <tabTrigger>em_left_luggage</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji left_luggage</description>
+</snippet>

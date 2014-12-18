@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:santa:
+]]></content>
+  <tabTrigger>em_santa</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji santa</description>
+</snippet>

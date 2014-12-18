@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cinema:
+]]></content>
+  <tabTrigger>em_cinema</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cinema</description>
+</snippet>

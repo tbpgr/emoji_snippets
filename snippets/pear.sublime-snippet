@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pear:
+]]></content>
+  <tabTrigger>em_pear</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pear</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mask:
+]]></content>
+  <tabTrigger>em_mask</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mask</description>
+</snippet>

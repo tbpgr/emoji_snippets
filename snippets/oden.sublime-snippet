@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:oden:
+]]></content>
+  <tabTrigger>em_oden</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji oden</description>
+</snippet>

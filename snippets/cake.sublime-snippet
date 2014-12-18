@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cake:
+]]></content>
+  <tabTrigger>em_cake</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cake</description>
+</snippet>

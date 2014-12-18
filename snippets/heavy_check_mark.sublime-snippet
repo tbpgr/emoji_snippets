@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heavy_check_mark:
+]]></content>
+  <tabTrigger>em_heavy_check_mark</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heavy_check_mark</description>
+</snippet>

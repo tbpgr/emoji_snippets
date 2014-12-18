@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:stuck_out_tongue:
+]]></content>
+  <tabTrigger>em_stuck_out_tongue</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji stuck_out_tongue</description>
+</snippet>

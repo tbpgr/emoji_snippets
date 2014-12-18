@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hocho:
+]]></content>
+  <tabTrigger>em_hocho</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hocho</description>
+</snippet>

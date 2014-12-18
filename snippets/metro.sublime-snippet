@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:metro:
+]]></content>
+  <tabTrigger>em_metro</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji metro</description>
+</snippet>

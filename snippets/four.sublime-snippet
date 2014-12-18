@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:four:
+]]></content>
+  <tabTrigger>em_four</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji four</description>
+</snippet>

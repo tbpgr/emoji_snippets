@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:traffic_light:
+]]></content>
+  <tabTrigger>em_traffic_light</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji traffic_light</description>
+</snippet>

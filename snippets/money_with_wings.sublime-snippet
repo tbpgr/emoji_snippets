@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:money_with_wings:
+]]></content>
+  <tabTrigger>em_money_with_wings</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji money_with_wings</description>
+</snippet>

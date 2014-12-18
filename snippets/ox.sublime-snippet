@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ox:
+]]></content>
+  <tabTrigger>em_ox</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ox</description>
+</snippet>

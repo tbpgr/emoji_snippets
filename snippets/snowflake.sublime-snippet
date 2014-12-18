@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:snowflake:
+]]></content>
+  <tabTrigger>em_snowflake</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji snowflake</description>
+</snippet>

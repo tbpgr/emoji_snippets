@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:articulated_lorry:
+]]></content>
+  <tabTrigger>em_articulated_lorry</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji articulated_lorry</description>
+</snippet>

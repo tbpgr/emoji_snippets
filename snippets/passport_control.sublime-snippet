@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:passport_control:
+]]></content>
+  <tabTrigger>em_passport_control</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji passport_control</description>
+</snippet>

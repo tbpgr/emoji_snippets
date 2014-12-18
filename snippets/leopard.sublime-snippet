@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:leopard:
+]]></content>
+  <tabTrigger>em_leopard</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji leopard</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rocket:
+]]></content>
+  <tabTrigger>em_rocket</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rocket</description>
+</snippet>

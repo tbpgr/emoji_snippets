@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:credit_card:
+]]></content>
+  <tabTrigger>em_credit_card</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji credit_card</description>
+</snippet>

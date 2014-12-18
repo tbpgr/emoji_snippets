@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:curry:
+]]></content>
+  <tabTrigger>em_curry</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji curry</description>
+</snippet>

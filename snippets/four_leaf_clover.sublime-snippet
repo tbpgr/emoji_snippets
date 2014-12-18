@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:four_leaf_clover:
+]]></content>
+  <tabTrigger>em_four_leaf_clover</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji four_leaf_clover</description>
+</snippet>

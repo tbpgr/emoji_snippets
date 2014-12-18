@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:feelsgood:
+]]></content>
+  <tabTrigger>em_feelsgood</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji feelsgood</description>
+</snippet>

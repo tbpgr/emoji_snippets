@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:grimacing:
+]]></content>
+  <tabTrigger>em_grimacing</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji grimacing</description>
+</snippet>

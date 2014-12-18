@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:underage:
+]]></content>
+  <tabTrigger>em_underage</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji underage</description>
+</snippet>

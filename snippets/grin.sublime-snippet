@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:grin:
+]]></content>
+  <tabTrigger>em_grin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji grin</description>
+</snippet>

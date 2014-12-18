@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:airplane:
+]]></content>
+  <tabTrigger>em_airplane</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji airplane</description>
+</snippet>

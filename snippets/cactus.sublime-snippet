@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cactus:
+]]></content>
+  <tabTrigger>em_cactus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cactus</description>
+</snippet>

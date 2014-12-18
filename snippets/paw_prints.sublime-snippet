@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:paw_prints:
+]]></content>
+  <tabTrigger>em_paw_prints</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji paw_prints</description>
+</snippet>

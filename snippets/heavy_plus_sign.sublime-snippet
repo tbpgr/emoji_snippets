@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heavy_plus_sign:
+]]></content>
+  <tabTrigger>em_heavy_plus_sign</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heavy_plus_sign</description>
+</snippet>

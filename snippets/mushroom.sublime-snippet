@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mushroom:
+]]></content>
+  <tabTrigger>em_mushroom</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mushroom</description>
+</snippet>

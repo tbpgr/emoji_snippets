@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:shipit:
+]]></content>
+  <tabTrigger>em_shipit</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji shipit</description>
+</snippet>

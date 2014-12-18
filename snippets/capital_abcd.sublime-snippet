@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:capital_abcd:
+]]></content>
+  <tabTrigger>em_capital_abcd</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji capital_abcd</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:shower:
+]]></content>
+  <tabTrigger>em_shower</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji shower</description>
+</snippet>

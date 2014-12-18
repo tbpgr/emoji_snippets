@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:open_file_folder:
+]]></content>
+  <tabTrigger>em_open_file_folder</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji open_file_folder</description>
+</snippet>

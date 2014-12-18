@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mobile_phone_off:
+]]></content>
+  <tabTrigger>em_mobile_phone_off</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mobile_phone_off</description>
+</snippet>

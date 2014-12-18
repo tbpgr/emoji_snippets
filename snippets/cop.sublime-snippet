@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cop:
+]]></content>
+  <tabTrigger>em_cop</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cop</description>
+</snippet>

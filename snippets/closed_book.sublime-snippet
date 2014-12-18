@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:closed_book:
+]]></content>
+  <tabTrigger>em_closed_book</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji closed_book</description>
+</snippet>

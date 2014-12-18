@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:green_book:
+]]></content>
+  <tabTrigger>em_green_book</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji green_book</description>
+</snippet>

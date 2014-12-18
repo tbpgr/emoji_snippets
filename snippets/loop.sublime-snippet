@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:loop:
+]]></content>
+  <tabTrigger>em_loop</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji loop</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tired_face:
+]]></content>
+  <tabTrigger>em_tired_face</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tired_face</description>
+</snippet>

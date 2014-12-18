@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:haircut:
+]]></content>
+  <tabTrigger>em_haircut</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji haircut</description>
+</snippet>

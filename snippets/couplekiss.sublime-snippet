@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:couplekiss:
+]]></content>
+  <tabTrigger>em_couplekiss</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji couplekiss</description>
+</snippet>

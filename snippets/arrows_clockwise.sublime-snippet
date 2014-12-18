@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:arrows_clockwise:
+]]></content>
+  <tabTrigger>em_arrows_clockwise</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji arrows_clockwise</description>
+</snippet>

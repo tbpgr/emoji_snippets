@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tv:
+]]></content>
+  <tabTrigger>em_tv</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tv</description>
+</snippet>

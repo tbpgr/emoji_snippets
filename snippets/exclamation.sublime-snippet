@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:exclamation:
+]]></content>
+  <tabTrigger>em_exclamation</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji exclamation</description>
+</snippet>

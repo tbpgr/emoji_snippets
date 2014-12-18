@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dragon_face:
+]]></content>
+  <tabTrigger>em_dragon_face</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dragon_face</description>
+</snippet>

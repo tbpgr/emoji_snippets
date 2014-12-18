@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:signal_strength:
+]]></content>
+  <tabTrigger>em_signal_strength</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji signal_strength</description>
+</snippet>

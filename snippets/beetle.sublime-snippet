@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:beetle:
+]]></content>
+  <tabTrigger>em_beetle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji beetle</description>
+</snippet>

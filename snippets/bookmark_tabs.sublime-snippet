@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bookmark_tabs:
+]]></content>
+  <tabTrigger>em_bookmark_tabs</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bookmark_tabs</description>
+</snippet>

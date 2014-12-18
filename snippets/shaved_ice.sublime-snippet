@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:shaved_ice:
+]]></content>
+  <tabTrigger>em_shaved_ice</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji shaved_ice</description>
+</snippet>

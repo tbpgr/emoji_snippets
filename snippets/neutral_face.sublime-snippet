@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:neutral_face:
+]]></content>
+  <tabTrigger>em_neutral_face</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji neutral_face</description>
+</snippet>

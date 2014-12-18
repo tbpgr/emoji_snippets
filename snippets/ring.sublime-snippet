@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ring:
+]]></content>
+  <tabTrigger>em_ring</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ring</description>
+</snippet>

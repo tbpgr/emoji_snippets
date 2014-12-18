@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pisces:
+]]></content>
+  <tabTrigger>em_pisces</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pisces</description>
+</snippet>

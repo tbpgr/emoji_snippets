@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:curly_loop:
+]]></content>
+  <tabTrigger>em_curly_loop</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji curly_loop</description>
+</snippet>

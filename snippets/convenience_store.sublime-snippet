@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:convenience_store:
+]]></content>
+  <tabTrigger>em_convenience_store</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji convenience_store</description>
+</snippet>

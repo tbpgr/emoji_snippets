@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:satisfied:
+]]></content>
+  <tabTrigger>em_satisfied</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji satisfied</description>
+</snippet>

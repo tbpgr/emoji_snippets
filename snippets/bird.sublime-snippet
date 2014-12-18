@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bird:
+]]></content>
+  <tabTrigger>em_bird</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bird</description>
+</snippet>

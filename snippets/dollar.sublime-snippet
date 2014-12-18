@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dollar:
+]]></content>
+  <tabTrigger>em_dollar</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dollar</description>
+</snippet>

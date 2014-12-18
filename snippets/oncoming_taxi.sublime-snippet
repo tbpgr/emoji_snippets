@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:oncoming_taxi:
+]]></content>
+  <tabTrigger>em_oncoming_taxi</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji oncoming_taxi</description>
+</snippet>

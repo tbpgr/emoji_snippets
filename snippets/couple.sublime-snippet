@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:couple:
+]]></content>
+  <tabTrigger>em_couple</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji couple</description>
+</snippet>

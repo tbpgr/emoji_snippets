@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fax:
+]]></content>
+  <tabTrigger>em_fax</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fax</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:vs:
+]]></content>
+  <tabTrigger>em_vs</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji vs</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:inbox_tray:
+]]></content>
+  <tabTrigger>em_inbox_tray</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji inbox_tray</description>
+</snippet>

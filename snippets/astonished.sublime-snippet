@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:astonished:
+]]></content>
+  <tabTrigger>em_astonished</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji astonished</description>
+</snippet>

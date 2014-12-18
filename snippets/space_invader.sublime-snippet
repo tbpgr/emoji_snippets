@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:space_invader:
+]]></content>
+  <tabTrigger>em_space_invader</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji space_invader</description>
+</snippet>

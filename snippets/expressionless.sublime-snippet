@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:expressionless:
+]]></content>
+  <tabTrigger>em_expressionless</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji expressionless</description>
+</snippet>

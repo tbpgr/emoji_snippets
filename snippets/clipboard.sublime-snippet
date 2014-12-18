@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:clipboard:
+]]></content>
+  <tabTrigger>em_clipboard</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji clipboard</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:disappointed_relieved:
+]]></content>
+  <tabTrigger>em_disappointed_relieved</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji disappointed_relieved</description>
+</snippet>

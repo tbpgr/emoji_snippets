@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rotating_light:
+]]></content>
+  <tabTrigger>em_rotating_light</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rotating_light</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:wheelchair:
+]]></content>
+  <tabTrigger>em_wheelchair</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji wheelchair</description>
+</snippet>

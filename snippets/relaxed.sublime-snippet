@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:relaxed:
+]]></content>
+  <tabTrigger>em_relaxed</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji relaxed</description>
+</snippet>

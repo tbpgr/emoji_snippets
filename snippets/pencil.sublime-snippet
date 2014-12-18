@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pencil:
+]]></content>
+  <tabTrigger>em_pencil</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pencil</description>
+</snippet>

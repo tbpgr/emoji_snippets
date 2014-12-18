@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:koko:
+]]></content>
+  <tabTrigger>em_koko</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji koko</description>
+</snippet>

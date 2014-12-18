@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:alien:
+]]></content>
+  <tabTrigger>em_alien</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji alien</description>
+</snippet>

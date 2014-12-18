@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:lock_with_ink_pen:
+]]></content>
+  <tabTrigger>em_lock_with_ink_pen</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji lock_with_ink_pen</description>
+</snippet>

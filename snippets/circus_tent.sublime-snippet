@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:circus_tent:
+]]></content>
+  <tabTrigger>em_circus_tent</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji circus_tent</description>
+</snippet>

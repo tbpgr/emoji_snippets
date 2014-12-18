@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:put_litter_in_its_place:
+]]></content>
+  <tabTrigger>em_put_litter_in_its_place</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji put_litter_in_its_place</description>
+</snippet>

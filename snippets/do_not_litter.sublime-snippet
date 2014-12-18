@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:do_not_litter:
+]]></content>
+  <tabTrigger>em_do_not_litter</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji do_not_litter</description>
+</snippet>

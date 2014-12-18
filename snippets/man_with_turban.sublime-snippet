@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:man_with_turban:
+]]></content>
+  <tabTrigger>em_man_with_turban</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji man_with_turban</description>
+</snippet>

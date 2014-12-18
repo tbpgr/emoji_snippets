@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:volcano:
+]]></content>
+  <tabTrigger>em_volcano</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji volcano</description>
+</snippet>

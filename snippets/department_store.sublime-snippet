@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:department_store:
+]]></content>
+  <tabTrigger>em_department_store</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji department_store</description>
+</snippet>

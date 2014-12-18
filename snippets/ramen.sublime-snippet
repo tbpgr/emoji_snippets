@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ramen:
+]]></content>
+  <tabTrigger>em_ramen</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ramen</description>
+</snippet>

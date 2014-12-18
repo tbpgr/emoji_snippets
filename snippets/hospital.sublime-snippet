@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hospital:
+]]></content>
+  <tabTrigger>em_hospital</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hospital</description>
+</snippet>

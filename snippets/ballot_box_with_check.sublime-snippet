@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ballot_box_with_check:
+]]></content>
+  <tabTrigger>em_ballot_box_with_check</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ballot_box_with_check</description>
+</snippet>

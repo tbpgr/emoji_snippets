@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rose:
+]]></content>
+  <tabTrigger>em_rose</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rose</description>
+</snippet>

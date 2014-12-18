@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:anguished:
+]]></content>
+  <tabTrigger>em_anguished</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji anguished</description>
+</snippet>

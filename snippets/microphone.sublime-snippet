@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:microphone:
+]]></content>
+  <tabTrigger>em_microphone</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji microphone</description>
+</snippet>

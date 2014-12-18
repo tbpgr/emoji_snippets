@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:arrow_forward:
+]]></content>
+  <tabTrigger>em_arrow_forward</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji arrow_forward</description>
+</snippet>

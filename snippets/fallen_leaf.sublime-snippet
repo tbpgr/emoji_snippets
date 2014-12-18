@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fallen_leaf:
+]]></content>
+  <tabTrigger>em_fallen_leaf</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fallen_leaf</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hushed:
+]]></content>
+  <tabTrigger>em_hushed</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hushed</description>
+</snippet>

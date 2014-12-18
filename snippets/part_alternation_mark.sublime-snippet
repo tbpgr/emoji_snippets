@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:part_alternation_mark:
+]]></content>
+  <tabTrigger>em_part_alternation_mark</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji part_alternation_mark</description>
+</snippet>

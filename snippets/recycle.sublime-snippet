@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:recycle:
+]]></content>
+  <tabTrigger>em_recycle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji recycle</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bulb:
+]]></content>
+  <tabTrigger>em_bulb</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bulb</description>
+</snippet>

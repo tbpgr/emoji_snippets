@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:egg:
+]]></content>
+  <tabTrigger>em_egg</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji egg</description>
+</snippet>

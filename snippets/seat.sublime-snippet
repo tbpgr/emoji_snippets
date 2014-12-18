@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:seat:
+]]></content>
+  <tabTrigger>em_seat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji seat</description>
+</snippet>

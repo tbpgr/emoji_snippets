@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:revolving_hearts:
+]]></content>
+  <tabTrigger>em_revolving_hearts</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji revolving_hearts</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:apple:
+]]></content>
+  <tabTrigger>em_apple</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji apple</description>
+</snippet>

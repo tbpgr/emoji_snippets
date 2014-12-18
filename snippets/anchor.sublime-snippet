@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:anchor:
+]]></content>
+  <tabTrigger>em_anchor</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji anchor</description>
+</snippet>

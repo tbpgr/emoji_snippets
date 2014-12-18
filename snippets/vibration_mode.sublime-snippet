@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:vibration_mode:
+]]></content>
+  <tabTrigger>em_vibration_mode</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji vibration_mode</description>
+</snippet>

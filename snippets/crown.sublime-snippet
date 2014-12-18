@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:crown:
+]]></content>
+  <tabTrigger>em_crown</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji crown</description>
+</snippet>

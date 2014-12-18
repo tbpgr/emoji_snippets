@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:boot:
+]]></content>
+  <tabTrigger>em_boot</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji boot</description>
+</snippet>

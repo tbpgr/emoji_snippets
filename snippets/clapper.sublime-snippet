@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:clapper:
+]]></content>
+  <tabTrigger>em_clapper</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji clapper</description>
+</snippet>

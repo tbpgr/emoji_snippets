@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:womens:
+]]></content>
+  <tabTrigger>em_womens</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji womens</description>
+</snippet>

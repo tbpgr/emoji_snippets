@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:white_check_mark:
+]]></content>
+  <tabTrigger>em_white_check_mark</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji white_check_mark</description>
+</snippet>

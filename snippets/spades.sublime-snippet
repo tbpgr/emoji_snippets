@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:spades:
+]]></content>
+  <tabTrigger>em_spades</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji spades</description>
+</snippet>

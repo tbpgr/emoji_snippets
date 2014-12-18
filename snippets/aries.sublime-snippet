@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:aries:
+]]></content>
+  <tabTrigger>em_aries</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji aries</description>
+</snippet>

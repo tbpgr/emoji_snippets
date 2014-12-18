@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pensive:
+]]></content>
+  <tabTrigger>em_pensive</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pensive</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ophiuchus:
+]]></content>
+  <tabTrigger>em_ophiuchus</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ophiuchus</description>
+</snippet>

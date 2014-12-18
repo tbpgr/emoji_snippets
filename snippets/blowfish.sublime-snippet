@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:blowfish:
+]]></content>
+  <tabTrigger>em_blowfish</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji blowfish</description>
+</snippet>

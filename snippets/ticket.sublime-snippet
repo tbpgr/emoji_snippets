@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ticket:
+]]></content>
+  <tabTrigger>em_ticket</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ticket</description>
+</snippet>

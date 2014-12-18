@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:white_flower:
+]]></content>
+  <tabTrigger>em_white_flower</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji white_flower</description>
+</snippet>

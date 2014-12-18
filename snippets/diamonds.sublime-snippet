@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:diamonds:
+]]></content>
+  <tabTrigger>em_diamonds</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji diamonds</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:godmode:
+]]></content>
+  <tabTrigger>em_godmode</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji godmode</description>
+</snippet>

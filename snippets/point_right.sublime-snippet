@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:point_right:
+]]></content>
+  <tabTrigger>em_point_right</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji point_right</description>
+</snippet>

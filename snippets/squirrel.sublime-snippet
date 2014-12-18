@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:squirrel:
+]]></content>
+  <tabTrigger>em_squirrel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji squirrel</description>
+</snippet>

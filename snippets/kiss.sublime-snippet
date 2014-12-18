@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:kiss:
+]]></content>
+  <tabTrigger>em_kiss</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji kiss</description>
+</snippet>

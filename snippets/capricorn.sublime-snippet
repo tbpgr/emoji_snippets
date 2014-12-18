@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:capricorn:
+]]></content>
+  <tabTrigger>em_capricorn</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji capricorn</description>
+</snippet>

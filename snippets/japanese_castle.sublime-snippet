@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:japanese_castle:
+]]></content>
+  <tabTrigger>em_japanese_castle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji japanese_castle</description>
+</snippet>

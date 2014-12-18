@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tomato:
+]]></content>
+  <tabTrigger>em_tomato</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tomato</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fire_engine:
+]]></content>
+  <tabTrigger>em_fire_engine</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fire_engine</description>
+</snippet>

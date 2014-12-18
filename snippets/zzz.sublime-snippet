@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:zzz:
+]]></content>
+  <tabTrigger>em_zzz</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji zzz</description>
+</snippet>

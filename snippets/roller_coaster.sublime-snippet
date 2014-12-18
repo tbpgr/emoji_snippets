@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:roller_coaster:
+]]></content>
+  <tabTrigger>em_roller_coaster</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji roller_coaster</description>
+</snippet>

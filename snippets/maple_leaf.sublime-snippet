@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:maple_leaf:
+]]></content>
+  <tabTrigger>em_maple_leaf</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji maple_leaf</description>
+</snippet>

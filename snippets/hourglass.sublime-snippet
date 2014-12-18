@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hourglass:
+]]></content>
+  <tabTrigger>em_hourglass</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hourglass</description>
+</snippet>

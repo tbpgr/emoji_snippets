@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:penguin:
+]]></content>
+  <tabTrigger>em_penguin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji penguin</description>
+</snippet>

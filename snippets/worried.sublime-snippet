@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:worried:
+]]></content>
+  <tabTrigger>em_worried</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji worried</description>
+</snippet>

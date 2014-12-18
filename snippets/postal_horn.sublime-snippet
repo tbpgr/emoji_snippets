@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:postal_horn:
+]]></content>
+  <tabTrigger>em_postal_horn</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji postal_horn</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:boom:
+]]></content>
+  <tabTrigger>em_boom</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji boom</description>
+</snippet>

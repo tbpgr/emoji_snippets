@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pouting_cat:
+]]></content>
+  <tabTrigger>em_pouting_cat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pouting_cat</description>
+</snippet>

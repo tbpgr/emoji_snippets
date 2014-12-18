@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:aerial_tramway:
+]]></content>
+  <tabTrigger>em_aerial_tramway</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji aerial_tramway</description>
+</snippet>

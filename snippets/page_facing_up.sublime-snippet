@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:page_facing_up:
+]]></content>
+  <tabTrigger>em_page_facing_up</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji page_facing_up</description>
+</snippet>

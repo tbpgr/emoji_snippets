@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:high_brightness:
+]]></content>
+  <tabTrigger>em_high_brightness</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji high_brightness</description>
+</snippet>

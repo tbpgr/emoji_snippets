@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heartbeat:
+]]></content>
+  <tabTrigger>em_heartbeat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heartbeat</description>
+</snippet>

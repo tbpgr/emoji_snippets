@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:wind_chime:
+]]></content>
+  <tabTrigger>em_wind_chime</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji wind_chime</description>
+</snippet>

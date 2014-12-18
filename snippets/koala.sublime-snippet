@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:koala:
+]]></content>
+  <tabTrigger>em_koala</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji koala</description>
+</snippet>

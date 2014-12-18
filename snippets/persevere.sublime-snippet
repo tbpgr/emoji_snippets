@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:persevere:
+]]></content>
+  <tabTrigger>em_persevere</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji persevere</description>
+</snippet>

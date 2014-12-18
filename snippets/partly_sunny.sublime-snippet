@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:partly_sunny:
+]]></content>
+  <tabTrigger>em_partly_sunny</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji partly_sunny</description>
+</snippet>

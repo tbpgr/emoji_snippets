@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:deciduous_tree:
+]]></content>
+  <tabTrigger>em_deciduous_tree</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji deciduous_tree</description>
+</snippet>

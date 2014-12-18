@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pushpin:
+]]></content>
+  <tabTrigger>em_pushpin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pushpin</description>
+</snippet>

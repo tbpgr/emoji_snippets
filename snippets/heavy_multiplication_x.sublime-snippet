@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:heavy_multiplication_x:
+]]></content>
+  <tabTrigger>em_heavy_multiplication_x</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji heavy_multiplication_x</description>
+</snippet>

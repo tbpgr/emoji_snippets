@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:white_circle:
+]]></content>
+  <tabTrigger>em_white_circle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji white_circle</description>
+</snippet>

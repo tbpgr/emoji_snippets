@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:small_red_triangle_down:
+]]></content>
+  <tabTrigger>em_small_red_triangle_down</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji small_red_triangle_down</description>
+</snippet>

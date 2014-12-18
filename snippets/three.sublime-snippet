@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:three:
+]]></content>
+  <tabTrigger>em_three</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji three</description>
+</snippet>

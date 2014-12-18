@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:doughnut:
+]]></content>
+  <tabTrigger>em_doughnut</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji doughnut</description>
+</snippet>

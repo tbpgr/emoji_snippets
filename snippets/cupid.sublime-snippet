@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cupid:
+]]></content>
+  <tabTrigger>em_cupid</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cupid</description>
+</snippet>

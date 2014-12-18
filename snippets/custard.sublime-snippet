@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:custard:
+]]></content>
+  <tabTrigger>em_custard</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji custard</description>
+</snippet>

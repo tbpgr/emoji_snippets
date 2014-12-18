@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:japanese_ogre:
+]]></content>
+  <tabTrigger>em_japanese_ogre</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji japanese_ogre</description>
+</snippet>

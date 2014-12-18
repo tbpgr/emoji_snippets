@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:scroll:
+]]></content>
+  <tabTrigger>em_scroll</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji scroll</description>
+</snippet>

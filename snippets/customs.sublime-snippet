@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:customs:
+]]></content>
+  <tabTrigger>em_customs</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji customs</description>
+</snippet>

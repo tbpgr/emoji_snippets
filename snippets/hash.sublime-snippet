@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hash:
+]]></content>
+  <tabTrigger>em_hash</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hash</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sound:
+]]></content>
+  <tabTrigger>em_sound</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sound</description>
+</snippet>

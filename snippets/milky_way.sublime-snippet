@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:milky_way:
+]]></content>
+  <tabTrigger>em_milky_way</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji milky_way</description>
+</snippet>

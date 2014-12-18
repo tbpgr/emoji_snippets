@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:calendar:
+]]></content>
+  <tabTrigger>em_calendar</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji calendar</description>
+</snippet>

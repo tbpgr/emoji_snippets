@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:camera:
+]]></content>
+  <tabTrigger>em_camera</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji camera</description>
+</snippet>

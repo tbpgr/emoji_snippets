@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:children_crossing:
+]]></content>
+  <tabTrigger>em_children_crossing</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji children_crossing</description>
+</snippet>

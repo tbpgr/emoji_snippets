@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:football:
+]]></content>
+  <tabTrigger>em_football</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji football</description>
+</snippet>

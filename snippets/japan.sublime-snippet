@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:japan:
+]]></content>
+  <tabTrigger>em_japan</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji japan</description>
+</snippet>

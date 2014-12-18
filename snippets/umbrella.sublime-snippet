@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:umbrella:
+]]></content>
+  <tabTrigger>em_umbrella</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji umbrella</description>
+</snippet>

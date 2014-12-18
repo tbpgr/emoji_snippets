@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:smoking:
+]]></content>
+  <tabTrigger>em_smoking</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji smoking</description>
+</snippet>

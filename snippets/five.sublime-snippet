@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:five:
+]]></content>
+  <tabTrigger>em_five</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji five</description>
+</snippet>

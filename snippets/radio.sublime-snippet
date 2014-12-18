@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:radio:
+]]></content>
+  <tabTrigger>em_radio</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji radio</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:microscope:
+]]></content>
+  <tabTrigger>em_microscope</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji microscope</description>
+</snippet>

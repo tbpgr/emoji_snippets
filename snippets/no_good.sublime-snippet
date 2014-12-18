@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:no_good:
+]]></content>
+  <tabTrigger>em_no_good</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji no_good</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:meat_on_bone:
+]]></content>
+  <tabTrigger>em_meat_on_bone</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji meat_on_bone</description>
+</snippet>

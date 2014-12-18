@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tanabata_tree:
+]]></content>
+  <tabTrigger>em_tanabata_tree</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tanabata_tree</description>
+</snippet>

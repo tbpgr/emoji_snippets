@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:poultry_leg:
+]]></content>
+  <tabTrigger>em_poultry_leg</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji poultry_leg</description>
+</snippet>

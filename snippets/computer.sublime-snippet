@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:computer:
+]]></content>
+  <tabTrigger>em_computer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji computer</description>
+</snippet>

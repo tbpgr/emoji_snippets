@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fuelpump:
+]]></content>
+  <tabTrigger>em_fuelpump</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fuelpump</description>
+</snippet>

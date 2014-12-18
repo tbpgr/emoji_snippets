@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:feet:
+]]></content>
+  <tabTrigger>em_feet</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji feet</description>
+</snippet>

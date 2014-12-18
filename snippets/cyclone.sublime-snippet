@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cyclone:
+]]></content>
+  <tabTrigger>em_cyclone</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cyclone</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:diamond_shape_with_a_dot_inside:
+]]></content>
+  <tabTrigger>em_diamond_shape_with_a_dot_inside</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji diamond_shape_with_a_dot_inside</description>
+</snippet>

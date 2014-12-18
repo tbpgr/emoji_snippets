@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:massage:
+]]></content>
+  <tabTrigger>em_massage</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji massage</description>
+</snippet>

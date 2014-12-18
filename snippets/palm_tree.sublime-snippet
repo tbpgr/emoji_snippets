@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:palm_tree:
+]]></content>
+  <tabTrigger>em_palm_tree</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji palm_tree</description>
+</snippet>

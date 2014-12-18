@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ear_of_rice:
+]]></content>
+  <tabTrigger>em_ear_of_rice</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ear_of_rice</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hurtrealbad:
+]]></content>
+  <tabTrigger>em_hurtrealbad</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hurtrealbad</description>
+</snippet>

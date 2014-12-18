@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:first_quarter_moon:
+]]></content>
+  <tabTrigger>em_first_quarter_moon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji first_quarter_moon</description>
+</snippet>

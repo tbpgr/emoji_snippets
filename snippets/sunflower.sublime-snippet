@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sunflower:
+]]></content>
+  <tabTrigger>em_sunflower</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sunflower</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:skull:
+]]></content>
+  <tabTrigger>em_skull</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji skull</description>
+</snippet>

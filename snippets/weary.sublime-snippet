@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:weary:
+]]></content>
+  <tabTrigger>em_weary</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji weary</description>
+</snippet>

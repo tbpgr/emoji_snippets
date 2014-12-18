@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:currency_exchange:
+]]></content>
+  <tabTrigger>em_currency_exchange</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji currency_exchange</description>
+</snippet>

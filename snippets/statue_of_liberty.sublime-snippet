@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:statue_of_liberty:
+]]></content>
+  <tabTrigger>em_statue_of_liberty</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji statue_of_liberty</description>
+</snippet>

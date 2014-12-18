@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mute:
+]]></content>
+  <tabTrigger>em_mute</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mute</description>
+</snippet>

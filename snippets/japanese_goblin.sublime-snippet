@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:japanese_goblin:
+]]></content>
+  <tabTrigger>em_japanese_goblin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji japanese_goblin</description>
+</snippet>

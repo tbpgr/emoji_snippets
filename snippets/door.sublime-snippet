@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:door:
+]]></content>
+  <tabTrigger>em_door</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji door</description>
+</snippet>

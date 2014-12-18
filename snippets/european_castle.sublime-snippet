@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:european_castle:
+]]></content>
+  <tabTrigger>em_european_castle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji european_castle</description>
+</snippet>

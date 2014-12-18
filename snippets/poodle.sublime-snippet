@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:poodle:
+]]></content>
+  <tabTrigger>em_poodle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji poodle</description>
+</snippet>

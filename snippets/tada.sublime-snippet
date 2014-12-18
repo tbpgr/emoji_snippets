@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tada:
+]]></content>
+  <tabTrigger>em_tada</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tada</description>
+</snippet>

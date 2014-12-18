@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:running_shirt_with_sash:
+]]></content>
+  <tabTrigger>em_running_shirt_with_sash</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji running_shirt_with_sash</description>
+</snippet>

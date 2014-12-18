@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:large_blue_circle:
+]]></content>
+  <tabTrigger>em_large_blue_circle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji large_blue_circle</description>
+</snippet>

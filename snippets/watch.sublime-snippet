@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:watch:
+]]></content>
+  <tabTrigger>em_watch</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji watch</description>
+</snippet>

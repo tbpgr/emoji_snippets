@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bangbang:
+]]></content>
+  <tabTrigger>em_bangbang</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bangbang</description>
+</snippet>

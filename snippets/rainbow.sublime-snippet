@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rainbow:
+]]></content>
+  <tabTrigger>em_rainbow</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rainbow</description>
+</snippet>

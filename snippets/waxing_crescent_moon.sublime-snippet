@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:waxing_crescent_moon:
+]]></content>
+  <tabTrigger>em_waxing_crescent_moon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji waxing_crescent_moon</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:new:
+]]></content>
+  <tabTrigger>em_new</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji new</description>
+</snippet>

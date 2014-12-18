@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fried_shrimp:
+]]></content>
+  <tabTrigger>em_fried_shrimp</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fried_shrimp</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:black_nib:
+]]></content>
+  <tabTrigger>em_black_nib</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji black_nib</description>
+</snippet>

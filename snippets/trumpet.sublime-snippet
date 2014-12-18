@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:trumpet:
+]]></content>
+  <tabTrigger>em_trumpet</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji trumpet</description>
+</snippet>

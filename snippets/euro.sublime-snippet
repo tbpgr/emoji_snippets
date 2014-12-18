@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:euro:
+]]></content>
+  <tabTrigger>em_euro</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji euro</description>
+</snippet>

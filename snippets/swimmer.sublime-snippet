@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:swimmer:
+]]></content>
+  <tabTrigger>em_swimmer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji swimmer</description>
+</snippet>

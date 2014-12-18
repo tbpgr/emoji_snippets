@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:round_pushpin:
+]]></content>
+  <tabTrigger>em_round_pushpin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji round_pushpin</description>
+</snippet>

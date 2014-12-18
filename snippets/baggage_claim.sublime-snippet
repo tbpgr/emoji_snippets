@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:baggage_claim:
+]]></content>
+  <tabTrigger>em_baggage_claim</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji baggage_claim</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:suspect:
+]]></content>
+  <tabTrigger>em_suspect</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji suspect</description>
+</snippet>

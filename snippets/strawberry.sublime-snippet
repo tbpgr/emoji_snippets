@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:strawberry:
+]]></content>
+  <tabTrigger>em_strawberry</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji strawberry</description>
+</snippet>

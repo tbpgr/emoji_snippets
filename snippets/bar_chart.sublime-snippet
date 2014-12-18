@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bar_chart:
+]]></content>
+  <tabTrigger>em_bar_chart</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bar_chart</description>
+</snippet>

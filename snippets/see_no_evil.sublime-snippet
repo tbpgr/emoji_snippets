@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:see_no_evil:
+]]></content>
+  <tabTrigger>em_see_no_evil</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji see_no_evil</description>
+</snippet>

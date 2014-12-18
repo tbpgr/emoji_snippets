@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:person_frowning:
+]]></content>
+  <tabTrigger>em_person_frowning</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji person_frowning</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mailbox_with_no_mail:
+]]></content>
+  <tabTrigger>em_mailbox_with_no_mail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mailbox_with_no_mail</description>
+</snippet>

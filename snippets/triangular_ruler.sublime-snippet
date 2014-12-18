@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:triangular_ruler:
+]]></content>
+  <tabTrigger>em_triangular_ruler</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji triangular_ruler</description>
+</snippet>

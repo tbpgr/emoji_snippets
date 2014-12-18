@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:light_rail:
+]]></content>
+  <tabTrigger>em_light_rail</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji light_rail</description>
+</snippet>

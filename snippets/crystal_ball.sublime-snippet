@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:crystal_ball:
+]]></content>
+  <tabTrigger>em_crystal_ball</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji crystal_ball</description>
+</snippet>

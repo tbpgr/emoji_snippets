@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rice:
+]]></content>
+  <tabTrigger>em_rice</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rice</description>
+</snippet>

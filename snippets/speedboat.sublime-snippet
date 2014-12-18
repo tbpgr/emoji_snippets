@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:speedboat:
+]]></content>
+  <tabTrigger>em_speedboat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji speedboat</description>
+</snippet>

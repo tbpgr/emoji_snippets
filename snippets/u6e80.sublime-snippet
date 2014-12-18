@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:u6e80:
+]]></content>
+  <tabTrigger>em_u6e80</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji u6e80</description>
+</snippet>

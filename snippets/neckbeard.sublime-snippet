@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:neckbeard:
+]]></content>
+  <tabTrigger>em_neckbeard</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji neckbeard</description>
+</snippet>

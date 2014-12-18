@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rage:
+]]></content>
+  <tabTrigger>em_rage</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rage</description>
+</snippet>

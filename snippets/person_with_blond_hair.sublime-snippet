@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:person_with_blond_hair:
+]]></content>
+  <tabTrigger>em_person_with_blond_hair</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji person_with_blond_hair</description>
+</snippet>

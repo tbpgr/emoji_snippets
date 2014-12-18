@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cn:
+]]></content>
+  <tabTrigger>em_cn</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cn</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:high_heel:
+]]></content>
+  <tabTrigger>em_high_heel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji high_heel</description>
+</snippet>

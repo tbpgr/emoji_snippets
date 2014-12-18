@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:dolphin:
+]]></content>
+  <tabTrigger>em_dolphin</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji dolphin</description>
+</snippet>

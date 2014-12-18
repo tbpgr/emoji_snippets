@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:construction_worker:
+]]></content>
+  <tabTrigger>em_construction_worker</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji construction_worker</description>
+</snippet>

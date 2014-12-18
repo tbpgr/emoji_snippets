@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ear:
+]]></content>
+  <tabTrigger>em_ear</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ear</description>
+</snippet>

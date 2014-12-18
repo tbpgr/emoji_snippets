@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:page_with_curl:
+]]></content>
+  <tabTrigger>em_page_with_curl</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji page_with_curl</description>
+</snippet>

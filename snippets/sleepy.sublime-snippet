@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sleepy:
+]]></content>
+  <tabTrigger>em_sleepy</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sleepy</description>
+</snippet>

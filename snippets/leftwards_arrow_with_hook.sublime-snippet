@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:leftwards_arrow_with_hook:
+]]></content>
+  <tabTrigger>em_leftwards_arrow_with_hook</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji leftwards_arrow_with_hook</description>
+</snippet>

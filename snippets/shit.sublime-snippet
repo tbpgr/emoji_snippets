@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:shit:
+]]></content>
+  <tabTrigger>em_shit</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji shit</description>
+</snippet>

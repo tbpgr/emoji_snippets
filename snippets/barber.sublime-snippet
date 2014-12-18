@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:barber:
+]]></content>
+  <tabTrigger>em_barber</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji barber</description>
+</snippet>

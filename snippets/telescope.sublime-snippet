@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:telescope:
+]]></content>
+  <tabTrigger>em_telescope</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji telescope</description>
+</snippet>

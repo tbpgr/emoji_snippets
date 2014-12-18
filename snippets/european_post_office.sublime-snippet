@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:european_post_office:
+]]></content>
+  <tabTrigger>em_european_post_office</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji european_post_office</description>
+</snippet>

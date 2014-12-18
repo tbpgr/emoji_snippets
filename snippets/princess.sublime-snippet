@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:princess:
+]]></content>
+  <tabTrigger>em_princess</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji princess</description>
+</snippet>

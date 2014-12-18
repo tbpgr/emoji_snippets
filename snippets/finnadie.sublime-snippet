@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:finnadie:
+]]></content>
+  <tabTrigger>em_finnadie</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji finnadie</description>
+</snippet>

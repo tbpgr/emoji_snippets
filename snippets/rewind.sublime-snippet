@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rewind:
+]]></content>
+  <tabTrigger>em_rewind</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rewind</description>
+</snippet>

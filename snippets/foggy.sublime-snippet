@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:foggy:
+]]></content>
+  <tabTrigger>em_foggy</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji foggy</description>
+</snippet>

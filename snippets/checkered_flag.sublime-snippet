@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:checkered_flag:
+]]></content>
+  <tabTrigger>em_checkered_flag</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji checkered_flag</description>
+</snippet>

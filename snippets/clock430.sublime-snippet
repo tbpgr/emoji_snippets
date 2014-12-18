@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:clock430:
+]]></content>
+  <tabTrigger>em_clock430</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji clock430</description>
+</snippet>

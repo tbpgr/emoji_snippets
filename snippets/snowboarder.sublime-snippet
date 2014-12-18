@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:snowboarder:
+]]></content>
+  <tabTrigger>em_snowboarder</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji snowboarder</description>
+</snippet>

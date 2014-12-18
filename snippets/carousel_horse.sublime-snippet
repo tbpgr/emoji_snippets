@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:carousel_horse:
+]]></content>
+  <tabTrigger>em_carousel_horse</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji carousel_horse</description>
+</snippet>

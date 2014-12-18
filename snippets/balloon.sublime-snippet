@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:balloon:
+]]></content>
+  <tabTrigger>em_balloon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji balloon</description>
+</snippet>

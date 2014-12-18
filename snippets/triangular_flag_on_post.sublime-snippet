@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:triangular_flag_on_post:
+]]></content>
+  <tabTrigger>em_triangular_flag_on_post</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji triangular_flag_on_post</description>
+</snippet>

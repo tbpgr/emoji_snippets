@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:zap:
+]]></content>
+  <tabTrigger>em_zap</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji zap</description>
+</snippet>

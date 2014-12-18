@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:telephone_receiver:
+]]></content>
+  <tabTrigger>em_telephone_receiver</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji telephone_receiver</description>
+</snippet>

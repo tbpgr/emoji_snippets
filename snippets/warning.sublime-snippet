@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:warning:
+]]></content>
+  <tabTrigger>em_warning</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji warning</description>
+</snippet>

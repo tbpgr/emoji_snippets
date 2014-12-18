@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:two_women_holding_hands:
+]]></content>
+  <tabTrigger>em_two_women_holding_hands</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji two_women_holding_hands</description>
+</snippet>

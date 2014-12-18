@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:rugby_football:
+]]></content>
+  <tabTrigger>em_rugby_football</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji rugby_football</description>
+</snippet>

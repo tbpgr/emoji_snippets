@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bathtub:
+]]></content>
+  <tabTrigger>em_bathtub</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bathtub</description>
+</snippet>

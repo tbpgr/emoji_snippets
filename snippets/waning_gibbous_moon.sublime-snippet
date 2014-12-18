@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:waning_gibbous_moon:
+]]></content>
+  <tabTrigger>em_waning_gibbous_moon</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji waning_gibbous_moon</description>
+</snippet>

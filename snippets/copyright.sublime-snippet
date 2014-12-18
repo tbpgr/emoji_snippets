@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:copyright:
+]]></content>
+  <tabTrigger>em_copyright</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji copyright</description>
+</snippet>

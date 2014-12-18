@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:gemini:
+]]></content>
+  <tabTrigger>em_gemini</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji gemini</description>
+</snippet>

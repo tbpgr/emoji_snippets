@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:smiley_cat:
+]]></content>
+  <tabTrigger>em_smiley_cat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji smiley_cat</description>
+</snippet>

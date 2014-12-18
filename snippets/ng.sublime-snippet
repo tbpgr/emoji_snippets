@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ng:
+]]></content>
+  <tabTrigger>em_ng</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ng</description>
+</snippet>

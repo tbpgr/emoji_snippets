@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hankey:
+]]></content>
+  <tabTrigger>em_hankey</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hankey</description>
+</snippet>

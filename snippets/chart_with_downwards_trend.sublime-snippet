@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:chart_with_downwards_trend:
+]]></content>
+  <tabTrigger>em_chart_with_downwards_trend</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji chart_with_downwards_trend</description>
+</snippet>

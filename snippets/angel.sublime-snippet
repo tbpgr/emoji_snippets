@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:angel:
+]]></content>
+  <tabTrigger>em_angel</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji angel</description>
+</snippet>

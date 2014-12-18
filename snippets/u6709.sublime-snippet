@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:u6709:
+]]></content>
+  <tabTrigger>em_u6709</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji u6709</description>
+</snippet>

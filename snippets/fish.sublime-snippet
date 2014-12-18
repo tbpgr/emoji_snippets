@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fish:
+]]></content>
+  <tabTrigger>em_fish</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fish</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:flags:
+]]></content>
+  <tabTrigger>em_flags</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji flags</description>
+</snippet>

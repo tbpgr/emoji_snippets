@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bowling:
+]]></content>
+  <tabTrigger>em_bowling</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bowling</description>
+</snippet>

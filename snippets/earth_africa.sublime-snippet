@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:earth_africa:
+]]></content>
+  <tabTrigger>em_earth_africa</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji earth_africa</description>
+</snippet>

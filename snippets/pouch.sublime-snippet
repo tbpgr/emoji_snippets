@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:pouch:
+]]></content>
+  <tabTrigger>em_pouch</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji pouch</description>
+</snippet>

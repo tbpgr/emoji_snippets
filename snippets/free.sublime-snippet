@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:free:
+]]></content>
+  <tabTrigger>em_free</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji free</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fork_and_knife:
+]]></content>
+  <tabTrigger>em_fork_and_knife</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fork_and_knife</description>
+</snippet>

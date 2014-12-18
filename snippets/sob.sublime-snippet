@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sob:
+]]></content>
+  <tabTrigger>em_sob</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sob</description>
+</snippet>

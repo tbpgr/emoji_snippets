@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cherries:
+]]></content>
+  <tabTrigger>em_cherries</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cherries</description>
+</snippet>

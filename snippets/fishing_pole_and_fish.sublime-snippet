@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:fishing_pole_and_fish:
+]]></content>
+  <tabTrigger>em_fishing_pole_and_fish</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji fishing_pole_and_fish</description>
+</snippet>

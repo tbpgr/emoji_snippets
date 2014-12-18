@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tractor:
+]]></content>
+  <tabTrigger>em_tractor</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tractor</description>
+</snippet>

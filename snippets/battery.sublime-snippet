@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:battery:
+]]></content>
+  <tabTrigger>em_battery</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji battery</description>
+</snippet>

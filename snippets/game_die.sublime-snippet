@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:game_die:
+]]></content>
+  <tabTrigger>em_game_die</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji game_die</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tophat:
+]]></content>
+  <tabTrigger>em_tophat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tophat</description>
+</snippet>

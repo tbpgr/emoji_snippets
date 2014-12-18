@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:notebook_with_decorative_cover:
+]]></content>
+  <tabTrigger>em_notebook_with_decorative_cover</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji notebook_with_decorative_cover</description>
+</snippet>

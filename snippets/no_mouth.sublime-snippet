@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:no_mouth:
+]]></content>
+  <tabTrigger>em_no_mouth</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji no_mouth</description>
+</snippet>

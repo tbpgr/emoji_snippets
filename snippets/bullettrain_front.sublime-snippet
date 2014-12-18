@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bullettrain_front:
+]]></content>
+  <tabTrigger>em_bullettrain_front</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bullettrain_front</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:beginner:
+]]></content>
+  <tabTrigger>em_beginner</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji beginner</description>
+</snippet>

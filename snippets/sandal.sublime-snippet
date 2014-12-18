@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sandal:
+]]></content>
+  <tabTrigger>em_sandal</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sandal</description>
+</snippet>

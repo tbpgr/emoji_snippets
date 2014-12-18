@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:white_large_square:
+]]></content>
+  <tabTrigger>em_white_large_square</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji white_large_square</description>
+</snippet>

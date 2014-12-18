@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:black_joker:
+]]></content>
+  <tabTrigger>em_black_joker</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji black_joker</description>
+</snippet>

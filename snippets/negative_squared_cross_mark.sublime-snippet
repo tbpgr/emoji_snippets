@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:negative_squared_cross_mark:
+]]></content>
+  <tabTrigger>em_negative_squared_cross_mark</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji negative_squared_cross_mark</description>
+</snippet>

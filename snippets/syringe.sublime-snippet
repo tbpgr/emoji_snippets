@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:syringe:
+]]></content>
+  <tabTrigger>em_syringe</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji syringe</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:end:
+]]></content>
+  <tabTrigger>em_end</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji end</description>
+</snippet>

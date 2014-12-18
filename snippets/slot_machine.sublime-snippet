@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:slot_machine:
+]]></content>
+  <tabTrigger>em_slot_machine</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji slot_machine</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:paperclip:
+]]></content>
+  <tabTrigger>em_paperclip</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji paperclip</description>
+</snippet>

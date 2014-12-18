@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mount_fuji:
+]]></content>
+  <tabTrigger>em_mount_fuji</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mount_fuji</description>
+</snippet>

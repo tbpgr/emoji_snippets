@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:incoming_envelope:
+]]></content>
+  <tabTrigger>em_incoming_envelope</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji incoming_envelope</description>
+</snippet>

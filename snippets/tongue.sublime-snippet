@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tongue:
+]]></content>
+  <tabTrigger>em_tongue</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tongue</description>
+</snippet>

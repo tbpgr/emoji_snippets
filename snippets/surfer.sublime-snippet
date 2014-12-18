@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:surfer:
+]]></content>
+  <tabTrigger>em_surfer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji surfer</description>
+</snippet>

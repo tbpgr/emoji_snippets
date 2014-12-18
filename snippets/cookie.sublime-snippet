@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cookie:
+]]></content>
+  <tabTrigger>em_cookie</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cookie</description>
+</snippet>

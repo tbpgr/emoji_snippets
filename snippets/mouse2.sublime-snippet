@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:mouse2:
+]]></content>
+  <tabTrigger>em_mouse2</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji mouse2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:water_buffalo:
+]]></content>
+  <tabTrigger>em_water_buffalo</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji water_buffalo</description>
+</snippet>

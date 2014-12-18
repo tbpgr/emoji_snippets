@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:chestnut:
+]]></content>
+  <tabTrigger>em_chestnut</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji chestnut</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:golf:
+]]></content>
+  <tabTrigger>em_golf</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji golf</description>
+</snippet>

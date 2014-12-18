@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sparkler:
+]]></content>
+  <tabTrigger>em_sparkler</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sparkler</description>
+</snippet>

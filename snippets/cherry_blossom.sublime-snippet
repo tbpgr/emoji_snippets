@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:cherry_blossom:
+]]></content>
+  <tabTrigger>em_cherry_blossom</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji cherry_blossom</description>
+</snippet>

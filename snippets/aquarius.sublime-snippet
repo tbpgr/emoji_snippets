@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:aquarius:
+]]></content>
+  <tabTrigger>em_aquarius</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji aquarius</description>
+</snippet>

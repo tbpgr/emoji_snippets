@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:repeat:
+]]></content>
+  <tabTrigger>em_repeat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji repeat</description>
+</snippet>

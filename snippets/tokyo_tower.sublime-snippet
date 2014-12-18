@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tokyo_tower:
+]]></content>
+  <tabTrigger>em_tokyo_tower</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tokyo_tower</description>
+</snippet>

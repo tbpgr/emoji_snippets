@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:yellow_heart:
+]]></content>
+  <tabTrigger>em_yellow_heart</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji yellow_heart</description>
+</snippet>

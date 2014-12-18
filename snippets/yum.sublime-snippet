@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:yum:
+]]></content>
+  <tabTrigger>em_yum</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji yum</description>
+</snippet>

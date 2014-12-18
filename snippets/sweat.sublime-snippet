@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:sweat:
+]]></content>
+  <tabTrigger>em_sweat</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji sweat</description>
+</snippet>

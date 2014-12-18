@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:seedling:
+]]></content>
+  <tabTrigger>em_seedling</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji seedling</description>
+</snippet>

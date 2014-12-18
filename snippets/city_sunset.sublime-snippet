@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:city_sunset:
+]]></content>
+  <tabTrigger>em_city_sunset</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji city_sunset</description>
+</snippet>

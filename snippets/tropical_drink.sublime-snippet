@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:tropical_drink:
+]]></content>
+  <tabTrigger>em_tropical_drink</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji tropical_drink</description>
+</snippet>

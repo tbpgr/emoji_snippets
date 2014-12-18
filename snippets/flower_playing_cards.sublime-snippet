@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:flower_playing_cards:
+]]></content>
+  <tabTrigger>em_flower_playing_cards</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji flower_playing_cards</description>
+</snippet>

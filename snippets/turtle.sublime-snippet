@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:turtle:
+]]></content>
+  <tabTrigger>em_turtle</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji turtle</description>
+</snippet>

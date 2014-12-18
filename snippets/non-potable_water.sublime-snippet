@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:non-potable_water:
+]]></content>
+  <tabTrigger>em_non-potable_water</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji non-potable_water</description>
+</snippet>

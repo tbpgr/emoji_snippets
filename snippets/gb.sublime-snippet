@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:gb:
+]]></content>
+  <tabTrigger>em_gb</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji gb</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:hammer:
+]]></content>
+  <tabTrigger>em_hammer</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji hammer</description>
+</snippet>

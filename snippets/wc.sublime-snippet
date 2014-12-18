@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:wc:
+]]></content>
+  <tabTrigger>em_wc</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji wc</description>
+</snippet>

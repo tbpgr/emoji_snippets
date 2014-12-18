@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:bowtie:
+]]></content>
+  <tabTrigger>em_bowtie</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji bowtie</description>
+</snippet>

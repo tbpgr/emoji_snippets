@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:ocean:
+]]></content>
+  <tabTrigger>em_ocean</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji ocean</description>
+</snippet>

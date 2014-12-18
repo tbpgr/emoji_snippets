@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:accept:
+]]></content>
+  <tabTrigger>em_accept</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji accept</description>
+</snippet>

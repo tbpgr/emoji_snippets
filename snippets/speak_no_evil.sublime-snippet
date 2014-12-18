@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:speak_no_evil:
+]]></content>
+  <tabTrigger>em_speak_no_evil</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji speak_no_evil</description>
+</snippet>

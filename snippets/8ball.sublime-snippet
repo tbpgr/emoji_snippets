@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+:8ball:
+]]></content>
+  <tabTrigger>em_8ball</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>emoji 8ball</description>
+</snippet>
