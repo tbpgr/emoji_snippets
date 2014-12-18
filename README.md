@@ -4401,3 +4401,5 @@ $ ruby emoji_snippet_generator.rb
 * Tab Trigger: em_shipit
 * Emoji: :shipit: 
 * FileName: shipit.sublime-snippet
+
+:smile:
